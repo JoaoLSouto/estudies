@@ -13,7 +13,7 @@ do {
         ranking = "Bronze"
     }else if (xp >= 2000 && xp < 5000){
         ranking = "Prata"
-    }else if (xp >= 5000 && xp < 4000){
+    }else if (xp >= 5000 && xp < 6000){
         ranking = "Ouro"
     }else if (xp >= 6000 && xp < 7000){
         ranking = "Platina"
