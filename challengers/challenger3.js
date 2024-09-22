@@ -25,7 +25,6 @@ class Heroi {
             console.log(`O ${this.tipo} atacou usando ${ataque}`);
         }                    
     }
-
+    
 let novoHeroi = new Heroi("Fulano", 20, "mago")
-
 novoHeroi.tipoAtk();
